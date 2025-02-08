@@ -1,16 +1,17 @@
-# Topics in Software Engineering
+# AI Role Assigner
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Description
 
-# Tools
-The tools that are installed with this devcontainer are:
+AI Role Assigner helps assign roles in software projects by looking at team members skills, experience, and preferences. It uses smart technology to make fair assignments, reducing mistakes and making teams more efficient. This tool saves time for managers and helps ensure that every team member is placed in a role where they can do their best work.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+## Problem Statement
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Picking roles manually can cause problems like unfair workloads, mismatched skills, and wasted time. Team leaders may not always know everyone's strengths, which can lead to poor assignments. AI Role Assigner takes care of this by analyzing data and making smart choices automatically. This ensures a better fit for everyone, improving teamwork and project success.
+
+## Primary Users
+
+- **Project Managers & Scrum Masters**: Make team organization easier and faster, helping projects run smoothly.
+- **Team Leads**: Ensure everyone gets a role that fits their skills and helps the team perform better.
+- **Software Engineers**: Get roles that match their abilities and career goals, leading to a better work experience.
+
+By using AI Role Assigner, software teams can work more effectively, reduce stress, and complete projects more successfully.
